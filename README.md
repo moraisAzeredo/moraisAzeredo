@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm João Victor</h1>
 <h3 align="center">Apaixonado por Análise de Dados e por Tecnologia</h3>
 
-- 🌱 Atualmente estou aprendendo **Python e SQL**
+- 🌱 Atualmente estou aprimorando meus conhecimentos em **Python e SQL**
 
 - 📝 Eu escrevo artigos no site [https://medium.com/@joov611](https://medium.com/@joov611)
 
