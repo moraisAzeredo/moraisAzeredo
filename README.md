@@ -9,7 +9,7 @@
 
 - 📫 Você me acha através do e-mail **joov611@gmail.com**
 
-- 📄 Fui criado por João Victor e estas são minhas habilidades profissionais [https://www.linkedin.com/in/joao-victor-azeredo-16835618b/](https://www.linkedin.com/in/joao-victor-azeredo-16835618b/)
+- 📄 Fui criado por João Victor e estas são minhas habilidades profissionais [https://www.linkedin.com/in/joao-victor-morais/](https://www.linkedin.com/in/joao-victor-morais/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -17,7 +17,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/joao-victor-azeredo-16835618b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joao-victor-azeredo-16835618b/" height="30" width="40" /></a>
 <a href="https://instagram.com/@joaovitor_azeredo132" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@joaovitor_azeredo132" height="30" width="40" /></a>
 <a href="https://medium.com/@joov611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@joov611" height="30" width="40" /></a>
 </p>
